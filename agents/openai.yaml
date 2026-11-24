@@ -1,0 +1,4 @@
+interface:
+  display_name: "雅思写作精批"
+  short_description: "按雅思官方四项标准评分，用中文逐段精批并优先解决核心失分点"
+  default_prompt: "请使用 $ielts-writing-correction，根据题目判断 Task 1 或 Task 2，评分并逐段精批我的作文。"
